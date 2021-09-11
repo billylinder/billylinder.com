@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Source code for [BillyLinder.com](https://billylinder.com). Built with [Next.js](https://nextjs.org/).
